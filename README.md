@@ -32,3 +32,38 @@ Make sure you have a C++ compiler installed on your system. For example, you can
 To run the compiled application, use the following command:
 ```sh
 ./calculator
+
+##Usage
+
+Follow the prompts to enter two numbers and an operator symbol. The application will display the result of the chosen operation.
+
+##Example
+
+========================================
+======= Simple Calculator : =======
+========================================
+== Choose your operator symbol : ==
+== Addition        =>     +     ==
+== Subtraction     =>     -     ==
+== Multiplication  =>     *     ==
+== Division        =>     /     ==
+== Modulo          =>     %     ==
+========================================
+Enter a number: 10
+Enter your operator symbol: +
+Enter another number: 5
+The result is: 15
+
+##Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
+
+##Contact
+
+If you have any questions, feel free to reach out:
+
+
+Replace `https://twitter.com/yourusername` with your actual Twitter profile link, and `yourusername` with your GitHub username.
+
+This will add a Twitter icon that links to your Twitter profile in your `README.md`.
+
