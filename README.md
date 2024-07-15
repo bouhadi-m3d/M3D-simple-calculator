@@ -20,8 +20,8 @@ Make sure you have a C++ compiler installed on your system. For example, you can
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/bouhadi-m3d/M3D-simple-calculator.git
+    cd M3D-simple-calculator
     ```
 2. Compile the code:
     ```sh
