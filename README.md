@@ -34,11 +34,11 @@ To run the compiled application, use the following command:
 ```sh
 ./calculator
 ``` 
-##Usage
+## Usage
 
 Follow the prompts to enter two numbers and an operator symbol. The application will display the result of the chosen operation.
 
-##Example
+## Example
 
 ```sh
 ========================================
@@ -57,7 +57,7 @@ Enter another number: 5
 The result is: 15
 ```
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
 
