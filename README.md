@@ -42,7 +42,7 @@ Follow the prompts to enter two numbers and an operator symbol. The application 
 
 ```sh
 ========================================
-======= Simple Calculator : =======
+=========  Simple Calculator : =========
 ========================================
 == Choose your operator symbol : ==
 == Addition        =>     +     ==
