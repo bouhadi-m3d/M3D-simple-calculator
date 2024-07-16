@@ -30,6 +30,7 @@ Make sure you have a C++ compiler installed on your system. For example, you can
 
 ### Running the Application
 To run the compiled application, use the following command:
+
 ```sh
 ./calculator
 
@@ -64,7 +65,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 If you have any questions, feel free to reach out:
 
 
-Replace `https://x.com/ChrolloM3d` with your actual Twitter profile link, and `ChrolloM3d` with your GitHub username.
+`https://x.com/ChrolloM3d` ,  `bouhadi-m3d` 
 
 
 
