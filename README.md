@@ -64,7 +64,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Contact
 For any questions or inquiries, you can reach me through the following platforms:
 
-![GitHub][] GitHub: bouhadi-m3d- ![X][] X: ChrolloM3d---## AboutNo description, website, or topics provided.## Resources- Readme## Activity- Stars: 0- Watchers: 1- Forks: 0## Languages- C++: 100.0%```In this modified README.md file, the contact section is added at the end with GitHub and X (Twitter) icons included next to the respective links. However, please note that GitHub Flavored Markdown (GFM) does not support direct embedding of external images through URLs for security reasons. You may need to use local images or rely on plain text links if the icons do not render as expected.
+![GitHub][] GitHub: bouhadi-m3d- ![X][] X: ChrolloM3d---##
 
 
 
