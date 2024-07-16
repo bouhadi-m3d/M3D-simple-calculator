@@ -61,6 +61,13 @@ The result is: 15
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
 
+## Contact
+
+For any questions or inquiries, you can reach me through the following platforms:
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bouhadi-m3d) [GitHub: bouhadi-m3d](https://github.com/bouhadi-m3d)
+- [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ChrolloM3d) [X: ChrolloM3d](https://twitter.com/ChrolloM3d)
+
 Contact
 For any questions or inquiries, you can reach me through the following platforms:
 
