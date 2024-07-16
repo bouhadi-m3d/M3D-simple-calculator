@@ -41,16 +41,17 @@ Follow the prompts to enter two numbers and an operator symbol. The application 
 ## Example
 
 ```sh
-========================================
-=========  Simple Calculator : =========
-========================================
+===================================
+======= Simple Calculator : =======
+===================================
+===================================
 == Choose your operator symbol : ==
-== Addition        =>     +     ==
-== Subtraction     =>     -     ==
-== Multiplication  =>     *     ==
-== Division        =>     /     ==
-== Modulo          =>     %     ==
-========================================
+== Addition          =>     +    ==
+== Subtraction       =>     -    ==
+== Multiplication    =>     *    ==
+== Divison           =>     /    ==
+== Modulo            =>     %    ==
+===================================
 Enter a number: 10
 Enter your operator symbol: +
 Enter another number: 5
