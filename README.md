@@ -64,7 +64,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Contact
 For any questions or inquiries, you can reach me through the following platforms:
 
-![GitHub][] GitHub: bouhadi-m3d- ![X][] X: ChrolloM3d---##
 
 
 
