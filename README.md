@@ -33,12 +33,13 @@ To run the compiled application, use the following command:
 
 ```sh
 ./calculator
-
+``` 
 ##Usage
 
 Follow the prompts to enter two numbers and an operator symbol. The application will display the result of the chosen operation.
 
 ##Example
+
 ```sh
 ========================================
 ======= Simple Calculator : =======
@@ -60,12 +61,7 @@ The result is: 15
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
 
-##Contact
 
-If you have any questions, feel free to reach out:
-
-
-`https://x.com/ChrolloM3d` ,  `bouhadi-m3d` 
 
 
 
