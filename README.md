@@ -12,7 +12,7 @@ This is a simple calculator application written in C++. It allows users to perfo
 - **Division (/)** (with zero-division check)
 - **Modulo (%)** (with zero-modulo check)
 
-## Getting Started
+## Getting Started:
 
 ### Prerequisites
 Make sure you have a C++ compiler installed on your system. For example, you can use `g++` which is part of the GCC (GNU Compiler Collection).
