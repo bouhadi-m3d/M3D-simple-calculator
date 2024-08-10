@@ -1,4 +1,6 @@
-# Simple Calculator  ![Calculator](https://img.icons8.com/ios-filled/50/000000/calculator.png)
+# Simple Calculator  
+
+![Calculator](https://img.icons8.com/ios-filled/50/000000/calculator.png)
 
 ## Overview
 This is a simple calculator application written in C++. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, division, and modulo.
